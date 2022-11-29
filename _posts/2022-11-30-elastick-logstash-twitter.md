@@ -42,7 +42,6 @@ output {
 
 `D:\elastick\elasticsearch-7.10.1>.\bin\elasticsearch-plugin install analysis-nori`
 
-![한글분석기설치](C:\Users\이승환\Desktop\한글분석기설치.PNG)
 
 ## 리인덱싱
 
